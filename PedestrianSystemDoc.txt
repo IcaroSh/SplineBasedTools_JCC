@@ -1,0 +1,37 @@
+Pedestrian system ***** v1.0:
+
+Current features & blueprints:
+
+AI_Pedestrian: Manages NPC behaivor
+NPC_Point: Actor that are sampled for the pedestrians to move to.
+BP_PointManager: Spline based path creation, NPC_Poitns are created along the spline.
+BP_NPCManager: Manages the areas for NPCs to be spawned as well as the amount of NPC to be spawned in that areas. Works along with the BPI_NPCManager to add or 
+remove NPC from pool based on distance from the player (Vehicle in test case).
+BPI_NPCManagement: Blueprint interface that keeps record of pooled NPC.
+
+System current state needs: 
+
+- NavBoundsVolume for NPC to be able to walk.
+- NavModifierVolume to remove nav areas where NPC shouldn't walk
+-NPC point has to be added as a new channel in project settings/Engine Collision/ObjectChannels
+
+System optimization to be done:
+
+- Implementing fixed NPC sample point to move to / Random fixed NPC sample point to move to
+- Optimize sample method
+- Implementing multiple NPC states (idle/walking/ other possible animations)
+- NPC/Vehicle actor detection to avoid pedestrian and vehicle collision. 
+
+
+************ Optional tool for NPC customization *****************
+
+Character Editor:
+
+Description:
+
+Get wide range of custom characters, tool allows for customization of characters, it's advance and comprenhensive. Also can be used, either for character edition 
+inside games or as NPC generation tool. Custom metahumans can be used along with the editor.
+
+Link to review video: https://www.youtube.com/watch?v=QzHJsyaZrC0
+Link to tool in Marketplace: https://www.unrealengine.com/marketplace/en-US/product/character-editor
+
