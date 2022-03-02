@@ -2725,3 +2725,1346 @@ NPC_Point22
 [2022.03.02-12.29.03:373][857]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.02-12.29.03:373][857]LogContentValidation: Display: Validating World /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap
 [2022.03.02-12.29.03:374][857]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PedestrianSystem/Maps/PedestrianToolMap_BuiltData.PedestrianToolMap_BuiltData
+[2022.03.02-12.36.39:972][698]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.02-12.36.41:577][842]LogEditorViewport: Clicking on Actor (LMB): BP_SplinePointGenerator_C (BP_SplinePointGenerator)
+[2022.03.02-12.36.43:184][981]LogScript: Warning: Attempted to access NPC_Point_C_24 via property CallFunc_Array_Get_Item, but NPC_Point_C_24 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator_2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-12.36.43:184][981]LogScript: Warning: Attempted to access NPC_Point_C_25 via property CallFunc_Array_Get_Item, but NPC_Point_C_25 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator_2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-12.36.43:184][981]LogScript: Warning: Attempted to access NPC_Point_C_26 via property CallFunc_Array_Get_Item, but NPC_Point_C_26 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator_2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-12.36.43:184][981]LogScript: Warning: Attempted to access NPC_Point_C_27 via property CallFunc_Array_Get_Item, but NPC_Point_C_27 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator_2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-12.36.45:121][147]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point28)
+[2022.03.02-12.37.29:913][133]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.02-12.37.32:314][351]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point38)
+[2022.03.02-12.37.45:549][309]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point36)
+[2022.03.02-12.37.52:420][828]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.02-12.37.52:925][867]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point31)
+[2022.03.02-12.38.03:021][582]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point28)
+[2022.03.02-12.38.17:861][703]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point29)
+[2022.03.02-12.38.24:745][216]LogTemp: Repeating last play command: Simulate
+[2022.03.02-12.38.24:756][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-12.38.24:756][216]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 14:38:24)
+[2022.03.02-12.38.24:756][216]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.38.24:781][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024404s)
+[2022.03.02-12.38.24:782][216]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-12.38.24:783][216]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2022.03.02-12.38.24:783][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.026154s)
+[2022.03.02-12.38.24:819][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.03.02-12.38.24:822][216]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-12.38.24:822][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-12.38.24:822][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-12.38.24:823][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-12.38.24:823][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-12.38.24:823][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-12.38.24:823][216]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-12.38.24:830][216]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.38.24:830][216]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.38.24:839][216]LogAudioMixer: Display: Using Audio Device VIVE Cosmos (NVIDIA High Definition Audio)
+[2022.03.02-12.38.24:840][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-12.38.24:840][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-12.38.24:840][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-12.38.24:840][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-12.38.24:840][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-12.38.24:840][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-12.38.24:841][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-12.38.24:841][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-12.38.24:841][216]LogInit: FAudioDevice initialized.
+[2022.03.02-12.38.24:841][216]LogAudio: Display: Audio Device (ID: 6) registered with world 'PedestrianToolMap'.
+[2022.03.02-12.38.24:851][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-12.38.24:854][216]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-13.38.24
+[2022.03.02-12.38.24:854][216]LogWorld: Bringing up level for play took: 0.002325
+[2022.03.02-12.38.24:867][216]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.02-12.38.24:870][216]PIE: Server logged in
+[2022.03.02-12.38.24:871][216]PIE: Play in editor total start time 0,118 seconds.
+[2022.03.02-12.38.26:757][372]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.26:758][372]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.26:759][372]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.26:760][372]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.26:761][372]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-12.38.29:347][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.38.29:347][565]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.38.29:348][565]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-12.38.29:349][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.38.29:360][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-12.38.29:370][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.38.29:397][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-12.38.29:398][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.38.29:400][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.38.29:402][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.38.29:407][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.03.02-12.38.29:451][566]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.02-12.38.30:372][641]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point5)
+[2022.03.02-12.38.42:103][423]LogTemp: Repeating last play command: Simulate
+[2022.03.02-12.38.42:116][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-12.38.42:117][423]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 14:38:42)
+[2022.03.02-12.38.42:117][423]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.38.42:140][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023493s)
+[2022.03.02-12.38.42:141][423]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-12.38.42:142][423]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2022.03.02-12.38.42:142][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025071s)
+[2022.03.02-12.38.42:173][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.02-12.38.42:174][423]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-12.38.42:175][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-12.38.42:175][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-12.38.42:175][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-12.38.42:175][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-12.38.42:175][423]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-12.38.42:182][423]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.38.42:182][423]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.38.42:190][423]LogAudioMixer: Display: Using Audio Device VIVE Cosmos (NVIDIA High Definition Audio)
+[2022.03.02-12.38.42:191][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-12.38.42:191][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-12.38.42:191][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-12.38.42:191][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-12.38.42:191][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-12.38.42:191][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-12.38.42:192][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-12.38.42:192][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-12.38.42:192][423]LogInit: FAudioDevice initialized.
+[2022.03.02-12.38.42:192][423]LogAudio: Display: Audio Device (ID: 7) registered with world 'PedestrianToolMap'.
+[2022.03.02-12.38.42:202][423]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-12.38.42:205][423]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-13.38.42
+[2022.03.02-12.38.42:205][423]LogWorld: Bringing up level for play took: 0.002289
+[2022.03.02-12.38.42:218][423]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.02-12.38.42:221][423]PIE: Server logged in
+[2022.03.02-12.38.42:222][423]PIE: Play in editor total start time 0,109 seconds.
+[2022.03.02-12.38.44:114][584]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.44:115][584]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Other
+[2022.03.02-12.38.44:116][584]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.44:118][584]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.38.44:119][584]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Other
+[2022.03.02-12.38.53:143][334]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-12.38.53:802][389]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Walking
+[2022.03.02-12.38.54:488][447]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Other
+[2022.03.02-12.38.55:483][530]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-12.38.58:531][787]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-12.38.59:913][903]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-12.39.00:703][969]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-12.39.00:754][973]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-12.39.01:156][  6]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-12.39.04:624][298]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-12.39.06:607][464]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-12.39.08:011][582]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-12.39.11:594][881]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-12.39.14:871][152]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Idle
+[2022.03.02-12.39.15:667][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.39.15:667][212]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.39.15:668][212]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-12.39.15:669][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.39.15:682][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-12.39.15:693][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.39.15:721][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-12.39.15:721][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.39.15:723][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.39.15:725][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.39.15:732][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.02-12.39.15:778][213]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.02-12.39.17:699][364]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point2)
+[2022.03.02-12.39.23:409][790]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point2)
+[2022.03.02-12.39.34:406][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.02-12.39.34:525][595]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMapB98A6AFA45765B46A36DAA83ED5DB3C1.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Maps/PedestrianToolMap.umap'
+[2022.03.02-12.39.34:577][595]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMap_BuiltData054F34A7458B96A8E719468941D32743.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Maps/PedestrianToolMap_BuiltData.uasset'
+[2022.03.02-12.39.34:590][595]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-12.39.34:590][595]LogContentValidation: Display: Validating World /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap
+[2022.03.02-12.39.34:590][595]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PedestrianSystem/Maps/PedestrianToolMap_BuiltData.PedestrianToolMap_BuiltData
+[2022.03.02-12.39.35:782][697]LogTemp: Repeating last play command: Simulate
+[2022.03.02-12.39.35:795][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-12.39.35:795][697]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 14:39:35)
+[2022.03.02-12.39.35:795][697]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.39.35:818][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022929s)
+[2022.03.02-12.39.35:819][697]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-12.39.35:819][697]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2022.03.02-12.39.35:819][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.024461s)
+[2022.03.02-12.39.35:852][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.02-12.39.35:853][697]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-12.39.35:853][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-12.39.35:853][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-12.39.35:853][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-12.39.35:853][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-12.39.35:853][697]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-12.39.35:859][697]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.39.35:860][697]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.39.35:868][697]LogAudioMixer: Display: Using Audio Device VIVE Cosmos (NVIDIA High Definition Audio)
+[2022.03.02-12.39.35:869][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-12.39.35:869][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-12.39.35:869][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-12.39.35:869][697]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-12.39.35:869][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-12.39.35:869][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-12.39.35:870][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-12.39.35:870][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-12.39.35:870][697]LogInit: FAudioDevice initialized.
+[2022.03.02-12.39.35:870][697]LogAudio: Display: Audio Device (ID: 8) registered with world 'PedestrianToolMap'.
+[2022.03.02-12.39.35:880][697]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-12.39.35:882][697]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-13.39.35
+[2022.03.02-12.39.35:883][697]LogWorld: Bringing up level for play took: 0.002329
+[2022.03.02-12.39.35:896][697]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.02-12.39.35:899][697]PIE: Server logged in
+[2022.03.02-12.39.35:900][697]PIE: Play in editor total start time 0,109 seconds.
+[2022.03.02-12.39.37:785][855]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.39.37:786][855]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.39.37:787][855]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.39.37:788][855]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.39.37:789][855]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.39.48:442][754]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-12.39.49:191][817]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-12.39.52:465][ 93]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-12.39.53:654][193]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-12.39.53:690][196]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Other
+[2022.03.02-12.39.54:871][295]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-12.39.54:896][297]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Idle
+[2022.03.02-12.39.56:346][418]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-12.39.57:562][520]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-12.40.03:726][ 38]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-12.40.04:982][141]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-12.40.10:462][601]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.40.10:569][610]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Other
+[2022.03.02-12.40.13:325][831]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Walking
+[2022.03.02-12.40.17:478][180]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-12.40.17:790][200]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.19:004][289]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-12.40.19:902][378]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.19:902][378]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.19:904][378]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.40.19:904][378]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.21:073][492]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Other
+[2022.03.02-12.40.21:180][502]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-12.40.21:908][573]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.21:908][573]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.21:909][573]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.40.24:106][787]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Other
+[2022.03.02-12.40.28:486][218]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-12.40.28:924][260]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-12.40.30:815][444]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-12.40.31:387][500]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Walking
+[2022.03.02-12.40.31:900][550]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.33:476][704]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-12.40.33:903][745]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.33:903][745]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.33:904][745]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-12.40.33:905][745]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.35:297][880]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-12.40.35:897][938]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-12.40.35:898][938]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.35:898][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.35:900][938]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-12.40.36:512][997]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Idle
+[2022.03.02-12.40.37:054][ 48]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-12.40.37:906][129]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.38:228][160]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-12.40.38:737][209]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-12.40.39:901][321]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.39:901][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.39:902][321]LogBlueprintUserMessages: [NPC_Point_163] NPC_Point  Should NOT Trigger State Change
+[2022.03.02-12.40.39:902][321]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.41:214][447]LogBlueprintUserMessages: [NPC_Point7] NPC_Point7  Should NOT Trigger State Change
+[2022.03.02-12.40.41:900][513]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.41:900][513]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.41:901][513]LogBlueprintUserMessages: [NPC_Point_163] NPC_Point  Should NOT Trigger State Change
+[2022.03.02-12.40.41:901][513]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-12.40.43:899][704]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-12.40.43:899][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-12.40.43:900][704]LogBlueprintUserMessages: [NPC_Point_163] NPC_Point  Should NOT Trigger State Change
+[2022.03.02-12.40.45:747][880]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-12.40.46:542][956]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-12.40.46:896][990]LogBlueprintUserMessages: [NPC_Point_163] NPC_Point  Should NOT Trigger State Change
+[2022.03.02-12.40.46:948][995]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-12.40.47:420][ 40]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-12.40.47:723][ 69]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-12.40.48:773][167]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-12.40.50:027][286]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-12.40.50:037][287]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Other
+[2022.03.02-12.40.50:775][357]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.40.51:233][400]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should Trigger State Change to: Walking
+[2022.03.02-12.40.51:664][441]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-12.40.54:008][662]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-12.40.54:059][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.40.54:059][664]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.40.54:059][664]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-12.40.54:061][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.40.54:072][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-12.40.54:083][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.40.54:111][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.40.54:111][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.40.54:113][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.40.54:120][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.03.02-12.40.54:168][665]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.02-12.40.56:408][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.03.02-12.40.56:526][848]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMapFCF792B6465A048057EA318BA725F92D.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Maps/PedestrianToolMap.umap'
+[2022.03.02-12.40.56:579][848]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMap_BuiltData8B74CD9F46FC59C721D9F58C852FA608.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Maps/PedestrianToolMap_BuiltData.uasset'
+[2022.03.02-12.40.56:593][848]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-12.40.56:593][848]LogContentValidation: Display: Validating World /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap
+[2022.03.02-12.40.56:593][848]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PedestrianSystem/Maps/PedestrianToolMap_BuiltData.PedestrianToolMap_BuiltData
+[2022.03.02-12.42.55:732][581]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5704e640-92e4-4c96-8d4c-f57102c41c32}.
+[2022.03.02-12.42.55:732][581]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.02-12.42.55:801][581]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.42.55:801][581]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.44.02:354][781]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d56e9a13-1b8e-4bb7-b571-bbc1a8f054c9}.
+[2022.03.02-12.44.02:689][781]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.02-12.44.02:706][781]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.44.02:706][781]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.44.07:692][796]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5704e640-92e4-4c96-8d4c-f57102c41c32}.
+[2022.03.02-12.44.07:692][796]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.02-12.44.07:700][796]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.44.07:701][796]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.45.44:149][753]LogSlate: Took 0.001375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.02-12.48.55:750][355]BlueprintLog: New page: Collapse to Function
+[2022.03.02-12.51.32:269][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PedestrianSystem/Blueprints/BP_Pedestrian.BP_Pedestrian
+[2022.03.02-12.51.55:818][353]BlueprintLog: New page: Compile BP_Pedestrian
+[2022.03.02-12.51.55:887][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.02-12.52.09:307][427]BlueprintLog: New page: Compile BP_Pedestrian
+[2022.03.02-12.52.09:368][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.03.02-12.52.11:287][575]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-12.52.11:349][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.03.02-12.53.28:539][757]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-12.53.28:601][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.02-12.53.29:003][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-12.53.29:042][781]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian7CA8AC39433EA2979CC8A89D5CAA1B0E.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-12.53.29:060][781]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-12.53.29:060][781]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-12.54.21:015][868]BlueprintLog: New page: Compile BP_Pedestrian
+[2022.03.02-12.54.21:086][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.03.02-12.54.21:583][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/BP_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/BP_Pedestrian.uasset" SILENT=true
+[2022.03.02-12.54.21:613][897]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/BP_Pedestrian3E6FFC704A6FA87D296A2892D53BE077.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/BP_Pedestrian.uasset'
+[2022.03.02-12.54.21:627][897]AssetCheck: New page: Asset Save: BP_Pedestrian
+[2022.03.02-12.54.21:627][897]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/BP_Pedestrian.BP_Pedestrian
+[2022.03.02-12.56.34:655][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.03.02-12.56.34:773][ 70]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMap_Auto348CCBA7742AD9F85DD9C7D876492DBFD.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Maps/PedestrianToolMap_Auto3.umap'
+[2022.03.02-12.56.34:775][ 70]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PedestrianSystem/Maps/PedestrianToolMap' took 0.157
+[2022.03.02-12.56.34:775][ 70]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.157
+[2022.03.02-12.56.34:776][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PedestrianSystem/Blueprints/AI_Pedestrian] ([2] browsable assets)...
+[2022.03.02-12.56.34:776][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/PedestrianSystem/Blueprints/AI_Pedestrian]
+[2022.03.02-12.56.34:817][ 70]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian_Auto333EAC0574CCAC3B77272F3B8D5817897.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Blueprints/AI_Pedestrian_Auto3.uasset'
+[2022.03.02-12.56.34:818][ 70]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.03.02-12.58.28:228][859]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-12.58.28:233][859]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Enum to String  Must have non-default Enum input
+[2022.03.02-12.58.28:235][859]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Enum to String  must have a valid enum defined
+[2022.03.02-12.58.28:236][859]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Enum to String  Must have non-default Enum input
+[2022.03.02-12.58.28:239][859]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Unexpected node type K2Node_GetEnumeratorNameAsString encountered at  Enum to String
+[2022.03.02-12.58.28:240][859]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Unexpected node type K2Node_GetEnumeratorNameAsString encountered at  Enum to String
+[2022.03.02-12.58.28:300][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.02-12.58.30:449][ 13]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d56e9a13-1b8e-4bb7-b571-bbc1a8f054c9}.
+[2022.03.02-12.58.30:463][ 13]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.02-12.58.30:570][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.58.30:570][ 13]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.58.33:295][198]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-12.58.33:360][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.02-12.58.33:777][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-12.58.33:822][223]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian4E3BDC3546B83C613332659C0D08ECCB.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-12.58.33:839][223]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-12.58.33:839][223]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-12.58.34:995][305]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5704e640-92e4-4c96-8d4c-f57102c41c32}.
+[2022.03.02-12.58.35:011][305]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.02-12.58.35:570][305]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.58.35:570][305]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.58.53:934][459]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-12.58.53:999][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.03.02-12.58.54:428][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-12.58.54:474][483]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianE6BE2D97422BF85396812A90E2DB0C70.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-12.58.54:491][483]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-12.58.54:491][483]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-12.58.59:419][826]LogTemp: Repeating last play command: Simulate
+[2022.03.02-12.58.59:431][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-12.58.59:431][826]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 14:58:59)
+[2022.03.02-12.58.59:466][826]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.58.59:490][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023353s)
+[2022.03.02-12.58.59:491][826]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-12.58.59:491][826]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2022.03.02-12.58.59:491][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025030s)
+[2022.03.02-12.58.59:528][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.03.02-12.58.59:529][826]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-12.58.59:529][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-12.58.59:529][826]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-12.58.59:529][826]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-12.58.59:529][826]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-12.58.59:529][826]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-12.58.59:536][826]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.58.59:536][826]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.58.59:546][826]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-12.58.59:546][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-12.58.59:546][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-12.58.59:546][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-12.58.59:547][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-12.58.59:547][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-12.58.59:547][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-12.58.59:548][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-12.58.59:548][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-12.58.59:548][826]LogInit: FAudioDevice initialized.
+[2022.03.02-12.58.59:548][826]LogAudio: Display: Audio Device (ID: 9) registered with world 'PedestrianToolMap'.
+[2022.03.02-12.58.59:558][826]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-12.58.59:560][826]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-13.58.59
+[2022.03.02-12.58.59:560][826]LogWorld: Bringing up level for play took: 0.002289
+[2022.03.02-12.58.59:574][826]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.02-12.58.59:577][826]PIE: Server logged in
+[2022.03.02-12.58.59:578][826]PIE: Play in editor total start time 0,15 seconds.
+[2022.03.02-12.59.01:427][948]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.01:429][948]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Walking
+[2022.03.02-12.59.01:430][948]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.01:431][948]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.01:432][948]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.09:690][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.59.09:690][493]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.59.09:691][493]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-12.59.09:692][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.59.09:702][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-12.59.09:712][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-12.59.09:742][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-12.59.09:743][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.59.09:744][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-12.59.09:747][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-12.59.09:751][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.02-12.59.09:799][494]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.02-12.59.35:738][402]LogTemp: Repeating last play command: Simulate
+[2022.03.02-12.59.35:752][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-12.59.35:752][402]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 14:59:35)
+[2022.03.02-12.59.35:752][402]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-12.59.35:776][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023774s)
+[2022.03.02-12.59.35:777][402]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-12.59.35:777][402]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2022.03.02-12.59.35:777][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025512s)
+[2022.03.02-12.59.35:812][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.02-12.59.35:813][402]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-12.59.35:813][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-12.59.35:813][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-12.59.35:814][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-12.59.35:814][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-12.59.35:814][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-12.59.35:814][402]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-12.59.35:820][402]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-12.59.35:820][402]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-12.59.35:831][402]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-12.59.35:831][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-12.59.35:831][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-12.59.35:831][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-12.59.35:832][402]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-12.59.35:832][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-12.59.35:832][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-12.59.35:833][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-12.59.35:833][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-12.59.35:833][402]LogInit: FAudioDevice initialized.
+[2022.03.02-12.59.35:833][402]LogAudio: Display: Audio Device (ID: 10) registered with world 'PedestrianToolMap'.
+[2022.03.02-12.59.35:842][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-12.59.35:845][402]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-13.59.35
+[2022.03.02-12.59.35:845][402]LogWorld: Bringing up level for play took: 0.002637
+[2022.03.02-12.59.35:858][402]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.02-12.59.35:861][402]PIE: Server logged in
+[2022.03.02-12.59.35:862][402]PIE: Play in editor total start time 0,114 seconds.
+[2022.03.02-12.59.38:271][552]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.38:273][552]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.38:274][552]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.38:275][552]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Other
+[2022.03.02-12.59.38:276][552]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-12.59.47:048][103]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Idle
+[2022.03.02-13.00.00:371][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.00.00:371][960]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.00.00:371][960]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.00.00:372][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.00.00:390][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.00.00:401][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.00.00:432][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.00.00:432][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.00.00:433][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.00.00:441][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.02-13.00.00:508][961]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.02-13.00.01:254][  6]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.00.01:267][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.00.01:267][  6]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:00:01)
+[2022.03.02-13.00.01:267][  6]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.00.01:290][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023118s)
+[2022.03.02-13.00.01:291][  6]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.00.01:291][  6]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2022.03.02-13.00.01:292][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.024610s)
+[2022.03.02-13.00.01:325][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.02-13.00.01:326][  6]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.00.01:326][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.00.01:326][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.00.01:326][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.00.01:326][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.00.01:326][  6]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.00.01:333][  6]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.00.01:333][  6]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.00.01:344][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.00.01:345][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.00.01:345][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.00.01:346][  6]LogInit: FAudioDevice initialized.
+[2022.03.02-13.00.01:346][  6]LogAudio: Display: Audio Device (ID: 11) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.00.01:362][  6]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.00.01:366][  6]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.00.01
+[2022.03.02-13.00.01:366][  6]LogWorld: Bringing up level for play took: 0.003015
+[2022.03.02-13.00.01:380][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.02-13.00.01:383][  6]PIE: Server logged in
+[2022.03.02-13.00.01:383][  6]PIE: Play in editor total start time 0,121 seconds.
+[2022.03.02-13.00.03:266][128]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-13.00.03:268][128]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-13.00.03:269][128]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.03:270][128]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-13.00.03:272][128]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.11:130][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.00.11:130][617]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.00.11:130][617]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.00.11:131][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.00.11:150][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.00.11:160][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.00.11:191][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.00.11:191][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.00.11:192][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.00.11:199][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.02-13.00.11:268][618]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.02-13.00.46:233][130]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.00.46:292][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.03.02-13.00.46:873][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.00.46:924][160]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianC0C577384EDE2D71DCCF00BC9B36AF70.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.00.46:941][160]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.00.46:942][160]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.00.47:837][213]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.00.47:849][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.00.47:849][213]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:00:47)
+[2022.03.02-13.00.47:849][213]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.00.47:872][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023132s)
+[2022.03.02-13.00.47:873][213]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.00.47:874][213]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2022.03.02-13.00.47:874][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.024794s)
+[2022.03.02-13.00.47:916][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.03.02-13.00.47:917][213]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.00.47:917][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.00.47:917][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.00.47:917][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.00.47:917][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.00.47:917][213]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.00.47:924][213]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.00.47:924][213]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.00.47:934][213]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.00.47:935][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.00.47:935][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.00.47:935][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.00.47:935][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.00.47:935][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.00.47:935][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.00.47:936][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.00.47:936][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.00.47:936][213]LogInit: FAudioDevice initialized.
+[2022.03.02-13.00.47:936][213]LogAudio: Display: Audio Device (ID: 12) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.00.47:943][213]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.00.47:946][213]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.00.47
+[2022.03.02-13.00.47:946][213]LogWorld: Bringing up level for play took: 0.002348
+[2022.03.02-13.00.47:960][213]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.02-13.00.47:963][213]PIE: Server logged in
+[2022.03.02-13.00.47:963][213]PIE: Play in editor total start time 0,118 seconds.
+[2022.03.02-13.00.49:844][336]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.49:845][336]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.49:846][336]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.49:848][336]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.49:849][336]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.00.58:532][902]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.01.05:013][327]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-13.01.06:166][403]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.01.06:227][407]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-13.01.08:101][530]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-13.01.08:722][571]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-13.01.10:187][667]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-13.01.11:121][728]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-13.01.12:087][791]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.01.13:571][888]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.01.14:745][965]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.01.15:439][  9]LogBlueprintUserMessages: [NPC_Point_C_31] NPC_Point31  Should NOT Trigger State Change
+[2022.03.02-13.01.16:959][ 95]LogBlueprintUserMessages: [NPC_Point_C_31] NPC_Point31  Should NOT Trigger State Change
+[2022.03.02-13.01.17:102][104]LogEditorViewport: Clicking on Actor (LMB): BP_Pedestrian_C (BP_Pedestrian1)
+[2022.03.02-13.01.18:301][161]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.01.18:301][161]LogBlueprintUserMessages: [NPC_Point_C_31] NPC_Point31  Should NOT Trigger State Change
+[2022.03.02-13.01.25:901][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.01.25:901][627]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.01.25:901][627]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.01.25:902][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.01.25:925][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.01.25:931][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.01.25:961][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-13.01.25:962][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.01.25:963][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.01.25:966][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.01.25:972][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.02-13.01.26:038][628]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.02-13.02.27:606][ 92]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.02.27:665][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.03.02-13.02.28:159][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.02.28:203][131]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianB9A41F2F47318AB42D39DFB177331A7B.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.02.28:223][131]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.02.28:223][131]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.03.55:724][202]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.03.55:788][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.03.02-13.05.32:397][590]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.05.32:401][590]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Enum to String  has invalid enum value ''
+[2022.03.02-13.05.32:401][590]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Enum to String  has invalid enum value ''
+[2022.03.02-13.05.32:402][590]LogBlueprint: Error: [AssetLog] D:\Repositories\SplineBasedTools_JCC\Content\PedestrianSystem\Blueprints\AI_Pedestrian.uasset: [Compiler] Enum to String  has invalid enum value ''
+[2022.03.02-13.05.32:459][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.02-13.06.38:096][333]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.06.38:160][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.02-13.06.38:907][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.06.38:956][393]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian52BC01F44484ECC213EBC49AF71C4504.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.06.38:974][393]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.06.38:974][393]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.07.43:203][251]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.07.43:267][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.03.02-13.07.43:793][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.07.43:842][287]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian85977B21440D08E5137E0C9820BB6127.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.07.43:863][287]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.07.43:863][287]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.07.48:334][671]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.07.48:397][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.03.02-13.07.48:764][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.07.48:813][697]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian7BDDE7B743A38576C4497B836C7C78C1.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.07.48:832][697]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.07.48:832][697]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.07.51:014][865]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.07.51:027][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.07.51:027][865]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:07:51)
+[2022.03.02-13.07.51:027][865]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.07.51:052][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024327s)
+[2022.03.02-13.07.51:053][865]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.07.51:053][865]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2022.03.02-13.07.51:053][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025734s)
+[2022.03.02-13.07.51:088][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.03.02-13.07.51:089][865]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.07.51:089][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.07.51:089][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.07.51:090][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.07.51:090][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.07.51:090][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.07.51:090][865]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.07.51:096][865]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.07.51:096][865]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.07.51:107][865]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.07.51:107][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.07.51:108][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.07.51:108][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.07.51:108][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.07.51:108][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.07.51:108][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.07.51:109][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.07.51:109][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.07.51:109][865]LogInit: FAudioDevice initialized.
+[2022.03.02-13.07.51:109][865]LogAudio: Display: Audio Device (ID: 13) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.07.51:115][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.07.51:118][865]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.07.51
+[2022.03.02-13.07.51:118][865]LogWorld: Bringing up level for play took: 0.002502
+[2022.03.02-13.07.51:131][865]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.02-13.07.51:134][865]PIE: Server logged in
+[2022.03.02-13.07.51:135][865]PIE: Play in editor total start time 0,111 seconds.
+[2022.03.02-13.07.53:017][  4]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Idle
+[2022.03.02-13.07.53:018][  4]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.07.53:019][  4]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.07.53:021][  4]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.07.53:022][  4]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.08.06:940][106]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Walking
+[2022.03.02-13.08.12:732][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.08.12:732][559]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.08.12:732][559]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.08.12:733][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.08.12:754][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.08.12:760][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.08.12:791][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-13.08.12:791][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.08.12:792][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.08.12:795][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.08.12:799][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.02-13.08.12:857][560]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.02-13.08.16:601][862]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.08.16:613][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.08.16:613][862]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:08:16)
+[2022.03.02-13.08.16:613][862]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.08.16:636][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023198s)
+[2022.03.02-13.08.16:638][862]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.08.16:638][862]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2022.03.02-13.08.16:638][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.024715s)
+[2022.03.02-13.08.16:675][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.02-13.08.16:675][862]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.08.16:675][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.08.16:675][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.08.16:676][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.08.16:676][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.08.16:676][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.08.16:676][862]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.08.16:682][862]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.08.16:682][862]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.08.16:693][862]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.08.16:694][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.08.16:694][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.08.16:694][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.08.16:694][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.08.16:694][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.08.16:694][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.08.16:695][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.08.16:695][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.08.16:695][862]LogInit: FAudioDevice initialized.
+[2022.03.02-13.08.16:695][862]LogAudio: Display: Audio Device (ID: 14) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.08.16:703][862]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.08.16:706][862]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.08.16
+[2022.03.02-13.08.16:706][862]LogWorld: Bringing up level for play took: 0.002501
+[2022.03.02-13.08.16:720][862]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.02-13.08.16:723][862]PIE: Server logged in
+[2022.03.02-13.08.16:724][862]PIE: Play in editor total start time 0,114 seconds.
+[2022.03.02-13.08.19:134][ 64]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.08.19:136][ 64]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.08.19:137][ 64]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.08.19:138][ 64]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.08.19:139][ 64]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.08.24:181][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.08.24:182][473]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.08.24:182][473]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.08.24:183][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.08.24:205][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.08.24:211][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.08.24:242][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.08.24:242][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.08.24:243][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.08.24:251][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.02-13.08.24:310][474]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.02-13.08.57:289][363]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.08.57:352][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.02-13.08.57:705][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.08.57:753][388]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian89B3CE3E4574DE4C6942E39C152A1201.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.08.57:771][388]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.08.57:772][388]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.08.59:733][543]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.08.59:745][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.08.59:745][543]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:08:59)
+[2022.03.02-13.08.59:745][543]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.08.59:769][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023560s)
+[2022.03.02-13.08.59:770][543]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.08.59:770][543]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2022.03.02-13.08.59:770][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025168s)
+[2022.03.02-13.08.59:806][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.03.02-13.08.59:807][543]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.08.59:807][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.08.59:807][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.08.59:807][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.08.59:807][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.08.59:807][543]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.08.59:814][543]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.08.59:814][543]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.08.59:824][543]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.08.59:824][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.08.59:824][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.08.59:824][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.08.59:825][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.08.59:825][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.08.59:825][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.08.59:826][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.08.59:826][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.08.59:826][543]LogInit: FAudioDevice initialized.
+[2022.03.02-13.08.59:826][543]LogAudio: Display: Audio Device (ID: 15) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.08.59:831][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.08.59:833][543]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.08.59
+[2022.03.02-13.08.59:833][543]LogWorld: Bringing up level for play took: 0.002311
+[2022.03.02-13.08.59:847][543]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.02-13.08.59:850][543]PIE: Server logged in
+[2022.03.02-13.08.59:851][543]PIE: Play in editor total start time 0,109 seconds.
+[2022.03.02-13.09.01:742][690]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.09.01:744][690]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.09.01:745][690]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.09.01:746][690]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.09.01:747][690]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Walking
+[2022.03.02-13.09.12:194][499]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-13.09.15:347][745]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.09.19:110][ 39]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Walking
+[2022.03.02-13.09.19:596][ 77]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Walking
+[2022.03.02-13.09.22:402][294]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.09.22:976][339]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.09.23:505][380]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-13.09.26:153][587]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-13.09.29:637][857]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.09.29:712][863]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Walking
+[2022.03.02-13.09.32:439][ 75]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.09.32:956][115]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.09.33:020][120]LogBlueprintUserMessages: [NPC_Point_C_31] NPC_Point31  Should NOT Trigger State Change
+[2022.03.02-13.09.35:913][346]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.09.37:885][500]LogBlueprintUserMessages: [NPC_Point_C_36] NPC_Point36  Should NOT Trigger State Change
+[2022.03.02-13.09.38:822][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.09.38:822][563]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.09.38:823][563]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.09.38:824][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.09.38:842][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.09.38:848][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.09.38:877][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-13.09.38:878][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.09.38:879][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.09.38:882][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.09.38:887][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.03.02-13.09.38:952][564]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.02-13.10.05:952][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.03.02-13.10.06:072][835]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMap_Auto4589816BF44D511A62E336FBBC50D9D24.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Maps/PedestrianToolMap_Auto4.umap'
+[2022.03.02-13.10.06:074][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PedestrianSystem/Maps/PedestrianToolMap' took 0.156
+[2022.03.02-13.10.06:074][835]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.156
+[2022.03.02-13.10.29:339][886]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.10.29:401][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.03.02-13.10.29:817][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.10.29:866][919]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianDFA9EA2343955A1FDD02F8B372A0CF8B.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.10.29:883][919]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.10.29:883][919]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.11.17:071][176]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.11.17:136][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.03.02-13.11.17:540][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.11.17:589][205]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian038FAD34401FF48C7738C3A768088749.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.11.17:608][205]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.11.17:608][205]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.11.32:246][456]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.11.32:259][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.11.32:259][456]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:11:32)
+[2022.03.02-13.11.32:309][456]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.11.32:333][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023473s)
+[2022.03.02-13.11.32:334][456]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.11.32:334][456]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2022.03.02-13.11.32:334][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025024s)
+[2022.03.02-13.11.32:370][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.03.02-13.11.32:371][456]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.11.32:371][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.11.32:371][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.11.32:371][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.11.32:371][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.11.32:371][456]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.11.32:378][456]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.11.32:378][456]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.11.32:390][456]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.11.32:390][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.11.32:390][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.11.32:390][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.11.32:390][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.11.32:390][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.11.32:390][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.11.32:391][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.11.32:391][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.11.32:391][456]LogInit: FAudioDevice initialized.
+[2022.03.02-13.11.32:391][456]LogAudio: Display: Audio Device (ID: 16) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.11.32:399][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.11.32:402][456]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.11.32
+[2022.03.02-13.11.32:402][456]LogWorld: Bringing up level for play took: 0.002368
+[2022.03.02-13.11.32:416][456]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.02-13.11.32:419][456]PIE: Server logged in
+[2022.03.02-13.11.32:419][456]PIE: Play in editor total start time 0,164 seconds.
+[2022.03.02-13.11.34:250][604]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.11.34:252][604]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.11.34:253][604]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.11.34:254][604]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.11.34:256][604]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.11.39:875][ 49]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.11.41:716][196]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.11.44:239][396]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Idle
+[2022.03.02-13.11.44:932][450]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Idle
+[2022.03.02-13.11.45:498][495]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-13.11.47:494][652]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.11.48:503][733]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Walking
+[2022.03.02-13.11.49:343][800]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.11.50:362][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.11.50:362][871]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.11.50:363][871]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.11.50:364][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.11.50:380][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.11.50:387][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.11.50:417][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-13.11.50:417][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.11.50:419][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.11.50:421][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.11.50:427][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.02-13.11.50:486][872]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.02-13.11.53:912][164]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point28)
+[2022.03.02-13.12.24:720][497]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.12.24:733][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.12.24:734][497]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:12:24)
+[2022.03.02-13.12.24:734][497]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.12.24:757][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022874s)
+[2022.03.02-13.12.24:758][497]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.12.24:758][497]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2022.03.02-13.12.24:758][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.024722s)
+[2022.03.02-13.12.24:793][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.03.02-13.12.24:795][497]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.12.24:795][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.12.24:795][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.12.24:796][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.12.24:796][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.12.24:796][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.12.24:796][497]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.12.24:802][497]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.12.24:802][497]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.12.24:812][497]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.12.24:813][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.12.24:813][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.12.24:813][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.12.24:813][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.12.24:813][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.12.24:813][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.12.24:814][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.12.24:814][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.12.24:814][497]LogInit: FAudioDevice initialized.
+[2022.03.02-13.12.24:814][497]LogAudio: Display: Audio Device (ID: 17) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.12.24:825][497]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.12.24:827][497]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.12.24
+[2022.03.02-13.12.24:827][497]LogWorld: Bringing up level for play took: 0.002279
+[2022.03.02-13.12.24:841][497]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.02-13.12.24:843][497]PIE: Server logged in
+[2022.03.02-13.12.24:844][497]PIE: Play in editor total start time 0,115 seconds.
+[2022.03.02-13.12.26:734][632]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.12.26:735][632]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.12.26:736][632]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.12.26:738][632]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.12.26:739][632]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.12.33:278][ 57]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point5)
+[2022.03.02-13.12.34:998][166]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.12.35:992][237]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.12.37:398][336]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.12.39:253][462]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Walking
+[2022.03.02-13.12.41:395][598]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-13.12.42:612][679]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.12.43:627][741]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.12.44:467][797]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.12.45:028][834]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.12.54:451][481]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.12.58:689][770]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-13.13.00:246][880]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-13.13.00:722][914]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.13.00:959][931]LogBlueprintUserMessages: [NPC_Point7] NPC_Point7  Should NOT Trigger State Change
+[2022.03.02-13.13.02:585][ 36]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-13.13.02:726][ 46]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-13.13.02:726][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-13.13.02:727][ 46]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.13.02:727][ 46]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.13.03:773][120]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-13.13.04:736][188]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-13.13.04:736][188]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-13.13.04:737][188]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.13.06:735][329]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.13.08:723][462]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-13.13.08:723][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-13.13.08:724][462]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.13.08:917][473]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-13.13.12:477][706]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.13.13:571][779]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Other
+[2022.03.02-13.13.13:590][780]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.13.15:018][874]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.13.15:712][923]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.13.19:160][166]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-13.13.20:900][285]LogBlueprintUserMessages: [NPC_Point7] NPC_Point7  Should NOT Trigger State Change
+[2022.03.02-13.13.22:657][409]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.13.23:253][450]LogBlueprintUserMessages: [NPC_Point7] NPC_Point7  Should NOT Trigger State Change
+[2022.03.02-13.13.23:850][492]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should Trigger State Change to: Walking
+[2022.03.02-13.13.24:655][549]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-13.13.25:261][591]LogBlueprintUserMessages: [NPC_Point7] NPC_Point7  Should NOT Trigger State Change
+[2022.03.02-13.13.26:135][651]LogBlueprintUserMessages: [NPC_Point_163] NPC_Point  Should NOT Trigger State Change
+[2022.03.02-13.13.28:151][786]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.13.28:775][830]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-13.13.29:462][878]LogBlueprintUserMessages: [NPC_Point_C_29] NPC_Point29  Should NOT Trigger State Change
+[2022.03.02-13.13.29:462][878]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should NOT Trigger State Change
+[2022.03.02-13.13.31:226][  1]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-13.13.31:644][ 28]LogBlueprintUserMessages: [NPC_Point_C_31] NPC_Point31  Should NOT Trigger State Change
+[2022.03.02-13.13.32:730][ 93]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.13.33:067][109]LogBlueprintUserMessages: [NPC_Point_C_28] NPC_Point28  Should Trigger State Change to: Walking
+[2022.03.02-13.13.33:995][164]LogBlueprintUserMessages: [NPC_Point_C_30] NPC_Point30  Should NOT Trigger State Change
+[2022.03.02-13.13.34:434][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.13.34:434][191]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.13.34:435][191]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.13.34:436][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.13.34:453][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.13.34:464][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.13.34:494][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.13.34:494][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.13.34:495][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.13.34:503][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.02-13.13.34:574][192]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.02-13.13.39:025][523]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point30)
+[2022.03.02-13.13.41:469][684]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.02-13.13.42:094][730]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point28)
+[2022.03.02-13.13.56:039][749]LogEditorViewport: Clicking on Actor (LMB): BP_SplinePointGenerator_C (BP_SplinePointGenerator2)
+[2022.03.02-13.13.58:189][898]LogScript: Warning: Attempted to access NPC_Point_C_28 via property CallFunc_Array_Get_Item, but NPC_Point_C_28 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-13.13.58:189][898]LogScript: Warning: Attempted to access NPC_Point_C_29 via property CallFunc_Array_Get_Item, but NPC_Point_C_29 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-13.13.58:189][898]LogScript: Warning: Attempted to access NPC_Point_C_30 via property CallFunc_Array_Get_Item, but NPC_Point_C_30 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-13.13.58:189][898]LogScript: Warning: Attempted to access NPC_Point_C_31 via property CallFunc_Array_Get_Item, but NPC_Point_C_31 is pending kill
+	BP_SplinePointGenerator_C /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap:PersistentLevel.BP_SplinePointGenerator2
+	Function /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator_C:ClearSpawnedPointArray:01A2
+[2022.03.02-13.14.00:649][ 82]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point39)
+[2022.03.02-13.14.18:250][344]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point48)
+[2022.03.02-13.14.21:161][556]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point49)
+[2022.03.02-13.14.22:190][631]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point50)
+[2022.03.02-13.14.23:224][710]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.02-13.14.24:228][787]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.02-13.14.24:718][824]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point47)
+[2022.03.02-13.14.25:742][901]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point50)
+[2022.03.02-13.14.26:739][977]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point47)
+[2022.03.02-13.14.39:680][916]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point43)
+[2022.03.02-13.14.40:654][990]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point47)
+[2022.03.02-13.16.57:804][770]LogEditorViewport: Clicking on Actor (LMB): NPC_Point_C (NPC_Point5)
+[2022.03.02-13.21.07:365][852]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.21.07:431][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.03.02-13.21.07:808][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.21.07:860][878]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianCFAA0BE2418B9F045BD506B1C0356386.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.21.07:874][878]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.21.07:874][878]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.21.29:229][686]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.21.29:293][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.03.02-13.21.29:729][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.21.29:780][721]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianFAAF2BC542F1E874CFBC75A4E5F6D204.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.21.29:793][721]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.21.29:793][721]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.22.49:229][416]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.22.49:291][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.03.02-13.22.51:315][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.22.51:363][591]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian1894EFDE4A884969DEE3F1B69534925A.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.22.51:378][591]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.22.51:378][591]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.23.12:251][471]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.23.12:315][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.03.02-13.23.55:200][796]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-13.24.04:112][491]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.24.04:174][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.03.02-13.24.04:593][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.24.04:641][520]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian902AA7DB40DC20D6C43C3D9FCE1D93CD.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.24.04:660][520]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.24.04:660][520]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.25.12:655][  2]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.25.12:726][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.03.02-13.25.45:821][507]BlueprintLog: New page: Collapse to Function
+[2022.03.02-13.26.17:335][912]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.26.17:402][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.03.02-13.26.17:891][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.26.17:950][950]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian12883F06488BDDA210EC418B5D907794.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.26.17:963][950]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.26.17:963][950]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.28.05:920][717]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.28.05:984][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.03.02-13.28.06:382][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.28.06:428][740]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_PedestrianDF041F4F4C928120C0616696D22C6FC2.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.28.06:448][740]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.28.06:448][740]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.28.25:519][245]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.28.25:581][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.03.02-13.28.26:082][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.28.26:129][278]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian0ADA56054D81B822881F2C9A51C12DE9.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.28.26:150][278]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.28.26:150][278]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.29.04:986][520]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.29.05:048][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.03.02-13.29.05:398][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.29.05:444][543]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian22B72B1C447C0C6171B8ACBB2964C360.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.29.05:462][543]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.29.05:462][543]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.29.33:820][663]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.29.33:885][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.03.02-13.29.54:412][209]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.29.54:476][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.03.02-13.29.54:874][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.29.54:924][234]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian2BE197244F48E9F57FF1DDA2B1ECB64E.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.29.54:948][234]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.29.54:948][234]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.30.17:240][985]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.30.17:304][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.03.02-13.30.17:911][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.30.17:957][ 29]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian8DD1FB0B43C73CF826ED8CB9735AAC0D.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.30.17:976][ 29]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.30.17:976][ 29]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.30.21:679][317]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.30.21:691][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.30.21:691][317]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:30:21)
+[2022.03.02-13.30.21:691][317]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.30.21:715][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023690s)
+[2022.03.02-13.30.21:716][317]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.30.21:717][317]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2022.03.02-13.30.21:717][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.025268s)
+[2022.03.02-13.30.21:752][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.03.02-13.30.21:754][317]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.30.21:754][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.30.21:754][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.30.21:754][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.30.21:754][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.30.21:754][317]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.30.21:761][317]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.30.21:761][317]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.30.21:773][317]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.30.21:773][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.30.21:773][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.30.21:773][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.30.21:774][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.30.21:774][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.30.21:774][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.30.21:775][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.30.21:775][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.30.21:775][317]LogInit: FAudioDevice initialized.
+[2022.03.02-13.30.21:775][317]LogAudio: Display: Audio Device (ID: 18) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.30.21:781][317]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.30.21:784][317]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.30.21
+[2022.03.02-13.30.21:784][317]LogWorld: Bringing up level for play took: 0.002423
+[2022.03.02-13.30.21:798][317]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.03.02-13.30.21:800][317]PIE: Server logged in
+[2022.03.02-13.30.21:801][317]PIE: Play in editor total start time 0,113 seconds.
+[2022.03.02-13.30.23:687][451]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.30.23:687][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.30.23:687][451]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.30.23:688][451]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.30.23:688][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.30.23:689][451]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Other
+[2022.03.02-13.30.23:690][451]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.30.23:690][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.30.23:690][451]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should Trigger State Change to: Other
+[2022.03.02-13.30.23:691][451]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.30.23:691][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.30.23:691][451]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.30.23:692][451]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.30.23:692][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.30.23:693][451]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.30.31:775][ 35]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.30.33:401][156]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should NOT Trigger State Change
+[2022.03.02-13.30.34:740][257]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Idle
+[2022.03.02-13.30.35:747][332]LogBlueprintUserMessages: [NPC_Point4] NPC_Point4  Should Trigger State Change to: Idle
+[2022.03.02-13.30.35:829][338]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.30.39:401][606]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.30.43:450][904]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.30.44:134][955]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should Trigger State Change to: Walking
+[2022.03.02-13.30.45:277][ 41]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.30.48:971][318]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.30.55:614][811]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-13.30.57:077][919]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.30.57:492][950]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-13.30.57:693][965]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.30.59:662][112]LogBlueprintUserMessages: [NPC_Point10] NPC_Point10  Should NOT Trigger State Change
+[2022.03.02-13.30.59:689][114]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-13.30.59:689][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-13.30.59:690][114]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.30.59:691][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.30.59:691][114]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.31.01:690][261]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.31.03:687][409]LogBlueprintUserMessages: [BP_NPCPool_C_0] Taking NPC from pool, 0 NPCs available in pool
+[2022.03.02-13.31.03:687][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AvailableNPC' of length 0 in '/Game/PedestrianSystem/Blueprints/BP_NPCPool.BP_NPCPool_C'!
+[2022.03.02-13.31.03:688][409]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NPC_Point_C /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap:PersistentLevel.NPC_Point5
+	Function /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point_C:DebugPossibleConections:01AB
+[2022.03.02-13.31.03:688][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  NPC_Point Function:  Debug Possible Conections Graph:  DebugPossibleConections Node:  Draw Debug Line
+[2022.03.02-13.31.03:688][409]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.31.04:248][450]LogBlueprintUserMessages: [NPC_Point2] NPC_Point2  Should NOT Trigger State Change
+[2022.03.02-13.31.05:189][519]LogBlueprintUserMessages: [NPC_Point7] NPC_Point7  Should NOT Trigger State Change
+[2022.03.02-13.31.06:611][624]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.31.08:310][749]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.31.10:354][900]LogBlueprintUserMessages: [NPC_Point_163] NPC_Point  Should NOT Trigger State Change
+[2022.03.02-13.31.11:686][998]LogBlueprintUserMessages: [None] Adding NPC to pool, 1 NPCs available in pool.
+[2022.03.02-13.31.12:382][ 49]LogBlueprintUserMessages: [NPC_Point8] NPC_Point8  Should NOT Trigger State Change
+[2022.03.02-13.31.13:047][ 97]LogBlueprintUserMessages: [NPC_Point6] NPC_Point6  Should NOT Trigger State Change
+[2022.03.02-13.31.13:323][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.31.13:323][112]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.31.13:323][112]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.31.13:324][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.31.13:343][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.31.13:354][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.31.13:384][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-13.31.13:384][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.31.13:386][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.31.13:389][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.31.13:393][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.02-13.31.13:556][113]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.03.02-13.31.29:910][299]LogSlate: Window 'Message Log' being destroyed
+[2022.03.02-13.31.29:916][299]LogSlate: Window 'Message Log' being destroyed
+[2022.03.02-13.32.11:678][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.02-13.32.11:805][495]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMap_Auto54AC5CE214539E27B06422F94AE2DDFBA.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Maps/PedestrianToolMap_Auto5.umap'
+[2022.03.02-13.32.11:807][495]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PedestrianSystem/Maps/PedestrianToolMap' took 0.162
+[2022.03.02-13.32.11:807][495]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.162
+[2022.03.02-13.32.11:807][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PedestrianSystem/Blueprints/AI_Pedestrian] ([2] browsable assets)...
+[2022.03.02-13.32.11:807][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/PedestrianSystem/Blueprints/AI_Pedestrian]
+[2022.03.02-13.32.11:853][495]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian_Auto521CCC2AA46E030FB99083EBD537AC4E9.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Blueprints/AI_Pedestrian_Auto5.uasset'
+[2022.03.02-13.32.11:855][495]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PedestrianSystem/Blueprints/NPC_Point] ([2] browsable assets)...
+[2022.03.02-13.32.11:861][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point]
+[2022.03.02-13.32.11:861][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/PedestrianSystem/Blueprints/NPC_Point]
+[2022.03.02-13.32.11:885][495]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/NPC_Point_Auto50AA8B18F458B0AC1D3439482A5A40CB1.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Blueprints/NPC_Point_Auto5.uasset'
+[2022.03.02-13.32.11:886][495]LogFileHelpers: Auto-saving content packages took 0.080
+[2022.03.02-13.48.56:903][471]LogTemp: Repeating last play command: Simulate
+[2022.03.02-13.48.56:919][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-13.48.56:919][471]PIE: New page: SIE session: PedestrianToolMap (02.03.2022, 15:48:56)
+[2022.03.02-13.48.56:919][471]LogPlayLevel: Creating play world package: /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.48.56:944][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024992s)
+[2022.03.02-13.48.56:946][471]LogAIModule: Creating AISystem for world PedestrianToolMap
+[2022.03.02-13.48.56:946][471]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2022.03.02-13.48.56:946][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PedestrianSystem/Maps/PedestrianToolMap.PedestrianToolMap to /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap (0.026629s)
+[2022.03.02-13.48.56:986][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.03.02-13.48.56:988][471]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-13.48.56:988][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-13.48.56:988][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-13.48.56:989][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-13.48.56:989][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-13.48.56:989][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-13.48.56:989][471]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-13.48.56:995][471]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-13.48.56:995][471]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-13.48.57:006][471]LogAudioMixer: Display: Using Audio Device Lautsprecher (Hi Res USB-C AUDIO)
+[2022.03.02-13.48.57:007][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-13.48.57:007][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-13.48.57:007][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-13.48.57:007][471]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-13.48.57:007][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-13.48.57:007][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-13.48.57:008][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-13.48.57:008][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-13.48.57:008][471]LogInit: FAudioDevice initialized.
+[2022.03.02-13.48.57:008][471]LogAudio: Display: Audio Device (ID: 19) registered with world 'PedestrianToolMap'.
+[2022.03.02-13.48.57:019][471]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.02-13.48.57:022][471]LogWorld: Bringing World /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap.PedestrianToolMap up for play (max tick rate 0) at 2022.03.02-14.48.57
+[2022.03.02-13.48.57:022][471]LogWorld: Bringing up level for play took: 0.002527
+[2022.03.02-13.48.57:036][471]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.03.02-13.48.57:039][471]PIE: Server logged in
+[2022.03.02-13.48.57:040][471]PIE: Play in editor total start time 0,125 seconds.
+[2022.03.02-13.48.58:911][602]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.48.58:913][602]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.48.58:915][602]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.48.58:916][602]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.48.58:917][602]LogBlueprintUserMessages: [NPC_Point5] NPC_Point5  Should NOT Trigger State Change
+[2022.03.02-13.49.04:625][ 15]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.49.05:903][107]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.49.07:208][201]LogBlueprintUserMessages: [NPC_Point_C_38] NPC_Point38  Should NOT Trigger State Change
+[2022.03.02-13.49.11:917][528]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.49.12:240][548]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.49.13:163][613]LogBlueprintUserMessages: [NPC_Point3] NPC_Point3  Should NOT Trigger State Change
+[2022.03.02-13.49.14:301][696]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.49.14:838][735]LogBlueprintUserMessages: [NPC_Point9] NPC_Point9  Should NOT Trigger State Change
+[2022.03.02-13.49.20:839][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.49.20:839][140]LogWorld: BeginTearingDown for /Game/PedestrianSystem/Maps/UEDPIE_0_PedestrianToolMap
+[2022.03.02-13.49.20:839][140]LogWorld: UWorld::CleanupWorld for PedestrianToolMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-13.49.20:841][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.49.20:861][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-13.49.20:871][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-13.49.20:904][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-13.49.20:904][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.49.20:906][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-13.49.20:910][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-13.49.20:915][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.03.02-13.49.20:992][141]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.03.02-13.49.25:500][471]BlueprintLog: New page: Compile AI_Pedestrian
+[2022.03.02-13.49.25:564][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.03.02-13.49.26:183][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/AI_Pedestrian" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset" SILENT=true
+[2022.03.02-13.49.26:229][511]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/AI_Pedestrian30CCF4B64013BADD4CDB91ACF0BF52D2.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/AI_Pedestrian.uasset'
+[2022.03.02-13.49.26:246][511]AssetCheck: New page: Asset Save: AI_Pedestrian
+[2022.03.02-13.49.26:246][511]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/AI_Pedestrian.AI_Pedestrian
+[2022.03.02-13.49.27:266][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PedestrianSystem/Blueprints/NPC_Point" FILE="D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/NPC_Point.uasset" SILENT=true
+[2022.03.02-13.49.27:288][594]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/NPC_PointC21345AF4846CA97F1CE47A773093C5B.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/NPC_Point.uasset'
+[2022.03.02-13.49.27:302][594]AssetCheck: New page: Asset Save: NPC_Point
+[2022.03.02-13.49.27:302][594]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/NPC_Point.NPC_Point
+[2022.03.02-13.49.29:058][728]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/BP_SplinePointGeneratorFF7A2DF74A77AA5590D3A29593C7940A.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Content/PedestrianSystem/Blueprints/BP_SplinePointGenerator.uasset'
+[2022.03.02-13.49.29:074][728]AssetCheck: New page: Asset Save: BP_SplinePointGenerator
+[2022.03.02-13.49.29:075][728]LogContentValidation: Display: Validating Blueprint /Game/PedestrianSystem/Blueprints/BP_SplinePointGenerator.BP_SplinePointGenerator
+[2022.03.02-13.50.04:985][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.03.02-13.50.05:112][302]LogSavePackage: Moving 'D:/Repositories/SplineBasedTools_JCC/Saved/PedestrianToolMap_Auto6F1BF7A8241C22D51531950BB35E6942D.tmp' to 'D:/Repositories/SplineBasedTools_JCC/Saved/Autosaves/Game/PedestrianSystem/Maps/PedestrianToolMap_Auto6.umap'
+[2022.03.02-13.50.05:114][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PedestrianSystem/Maps/PedestrianToolMap' took 0.163
+[2022.03.02-13.50.05:114][302]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.163
